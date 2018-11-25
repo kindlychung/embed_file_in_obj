@@ -1,1 +1,1 @@
-gcc main.c data.o
+g++ main.cpp data.o
